@@ -10,7 +10,7 @@ This ESP8266 based Remote Power switch contains the following:
     Power Switch
     Reset Switch
     
-![Cloud Dashboard](https://github.com/skillsheen/ESP_remote_PC_switch/assets/133706254/c86015c3-426b-4c35-869c-7494daf09320) 
+![Cloud Dashboard](https://github.com/skillsheen/ESP_remote_PC_switch/assets/133706254/46cf0842-c529-4e12-bdef-ff377f214dde)
     
 The "Switch" is boolean Read and Write command which sends True or False command from the Arduino Cloud IoT to the ESP board inturn translating to High or Low signal. This results in power/reset switch to act as a pressed switch.
 
